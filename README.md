@@ -5,7 +5,7 @@ This project is a simple HTML webpage showcasing various basic and useful HTML e
 ## Live link:
 https://niloy-uthso.github.io/html/
 
-### ✅ HTML Tags Covered:
+### HTML Tags Covered:
 - Headings (`<h1>`, `<h2>`)
 - Paragraphs (`<p>`)
 - Lists and Links (`<ul>`, `<li>`, `<a>`)
@@ -15,7 +15,7 @@ https://niloy-uthso.github.io/html/
 - Marquee Text (deprecated tag: `<marquee>`)
 - Mathematical Equations with MathJax (`<script>` and LaTeX syntax)
 
-### ✅ External Libraries Used:
+###  External Libraries Used:
 - [MathJax](https://www.mathjax.org/) for rendering LaTeX-style mathematical equations.
 - Embedded content like:
   - YouTube video via iframe.
